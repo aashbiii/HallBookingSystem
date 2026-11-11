@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="240dp"
+    android:viewportWidth="400"
+    android:viewportHeight="240">
+  <!-- Gradient Background -->
+  <path
+      android:pathData="M0,0h400v240h-400z"
+      android:fillColor="#004D40"/>
+  <!-- Stage Backdrop -->
+  <path
+      android:pathData="M50,40h300v130h-300z"
+      android:fillColor="#00695C"/>
+  <!-- Stage Screen / Projector -->
+  <path
+      android:pathData="M110,60h180v80h-180z"
+      android:fillColor="#4DB6AC"/>
+  <!-- Stage Floor -->
+  <path
+      android:pathData="M20,170h360l-30,40h-300z"
+      android:fillColor="#FFB300"/>
+  <!-- Stage Spotlights -->
+  <path
+      android:pathData="M60,0L130,170h40L90,0z"
+      android:fillColor="#1AFFFFFF"/>
+  <path
+      android:pathData="M340,0L270,170h-40L310,0z"
+      android:fillColor="#1AFFFFFF"/>
+  <!-- Seating rows -->
+  <path
+      android:pathData="M0,210h400v30h-400z"
+      android:fillColor="#002D25"/>
+</vector>

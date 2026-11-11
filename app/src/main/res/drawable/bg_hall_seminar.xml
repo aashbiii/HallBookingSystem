@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="240dp"
+    android:viewportWidth="400"
+    android:viewportHeight="240">
+  <!-- Modern Seminar Room Wall -->
+  <path
+      android:pathData="M0,0h400v240h-400z"
+      android:fillColor="#004D40"/>
+  <!-- Presentation Smartboard -->
+  <path
+      android:pathData="M70,40h260v100h-260z"
+      android:fillColor="#FFFFFF"/>
+  <path
+      android:pathData="M80,50h240v80h-240z"
+      android:fillColor="#E0F2F1"/>
+  <!-- Podium -->
+  <path
+      android:pathData="M90,130h35v60h-35z"
+      android:fillColor="#FFB300"/>
+  <!-- Conference Tables Rows -->
+  <path
+      android:pathData="M30,170h340v15h-340z"
+      android:fillColor="#00695C"/>
+  <path
+      android:pathData="M10,205h380v15h-380z"
+      android:fillColor="#00352C"/>
+</vector>

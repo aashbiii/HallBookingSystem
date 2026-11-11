@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="240dp"
+    android:viewportWidth="400"
+    android:viewportHeight="240">
+  <!-- Sky / Night Background -->
+  <path
+      android:pathData="M0,0h400v240h-400z"
+      android:fillColor="#102A27"/>
+  <!-- Stars / Constellations -->
+  <path
+      android:pathData="M80,30h4v4h-4z M180,45h3v3h-3z M290,25h4v4h-4z M330,60h3v3h-3z M60,70h3v3h-3z"
+      android:fillColor="#B3FFFFFF"/>
+  <!-- Amphitheatre tiers -->
+  <path
+      android:pathData="M0,120c120,40 280,40 400,0v120h-400z"
+      android:fillColor="#004D40"/>
+  <path
+      android:pathData="M30,150c110,35 230,35 340,0v90h-340z"
+      android:fillColor="#00695C"/>
+  <path
+      android:pathData="M70,180c90,30 170,30 260,0v60h-260z"
+      android:fillColor="#4DB6AC"/>
+  <!-- Central performance stage circle -->
+  <path
+      android:pathData="M140,210a60,15 0 1,0 120,0a60,15 0 1,0 -120,0"
+      android:fillColor="#FFB300"/>
+</vector>

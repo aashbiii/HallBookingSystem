@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RCSS Hall Booking</string>
+    <string name="tagline">Rajagiri College of Social Sciences, Kalamassery</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="new_user_register">New here? Create an account</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="manager_hint">Admin: admin@rajagiri.edu / Admin@123 • Student: student@rajagiri.edu / Student@123</string>
+
+    <string name="menu_my_bookings">My Bookings</string>
+    <string name="menu_all_bookings">All Bookings</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_about">About</string>
+    <string name="menu_refresh">Refresh</string>
+
+    <string name="available_halls">RCSS Campus Halls</string>
+    <string name="available_halls_welcome_prefix">Welcome back, </string>
+    <string name="check_availability">Check Availability</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_slot">Select Time Slot</string>
+    <string name="book_now">Book Now</string>
+    <string name="event_name">Event Name</string>
+    <string name="expected_attendees">Expected Attendees</string>
+    <string name="capacity">Capacity</string>
+    <string name="amenities">Amenities</string>
+    <string name="location">Location</string>
+    <string name="price_per_slot">Price / Slot</string>
+
+    <string name="no_bookings_yet">No bookings yet. Book a hall to get started!</string>
+    <string name="no_pending_requests">No pending requests right now.</string>
+    <string name="view_receipt">Booking Details</string>
+    <string name="approve">Approve</string>
+    <string name="reject">Reject</string>
+
+    <string name="status_pending">PENDING</string>
+    <string name="status_approved">APPROVED</string>
+    <string name="status_rejected">REJECTED</string>
+
+    <string name="edit_hall">Edit Hall</string>
+    <string name="hall_information">Hall Information</string>
+    <string name="hall_photos">Hall Photos &amp; Gallery</string>
+    <string name="add_photo">+ Add Photo</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="hall_name">Hall Name</string>
+    <string name="description">Description</string>
+    <string name="manage_halls">Manage Halls</string>
+    <string name="nav_pending">Pending Approvals</string>
+    <string name="nav_all_bookings">All Bookings History</string>
+    <string name="nav_manage_halls">Manage Campus Halls</string>
+    <string name="nav_about">About System</string>
+    <string name="nav_logout">Logout</string>
+</resources>
